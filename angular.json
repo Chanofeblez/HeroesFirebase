@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "heroesApp"
+    }
+  },
+  "defaultProject": "heroesApp",
+  "cli": {
+    "analytics": "41ef09ba-0d96-4f1b-9b1f-284c8c3e0eae"
+  }
 }
